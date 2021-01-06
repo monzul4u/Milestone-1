@@ -158,6 +158,9 @@ footer{
     color: darkslategrey;
     font-weight: bold;
 }
+.half-width h1{
+    text-align: left;
+}
 
   
  
